@@ -40,7 +40,7 @@ Other:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### There are some links to contact me:
-   ![<a src='https://mail.google.com/mail/u/0/?tab=rm#inbox'></a>](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(https://mail.google.com/)]
    - mail: sokolov.mikhail.job@gmail.com
    - telegram: https://t.me/krsantan
 
