@@ -4,6 +4,7 @@
     
  - interested in front-end development
  - like to play computer games and reading historical articles
+ - how to contact : sokolov.mikhail.job@gmail.com
       
 ###    My stack:
 
@@ -40,7 +41,6 @@ Other:
 
 
 ### There are some links to contact me:
-   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
    [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krsantan)
    [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/89807150096)
 
