@@ -8,27 +8,29 @@
 ###    My stack:
 
 Front- end : 
-[![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/https://learn.javascript.ru/)
-[![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badgehttps://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/https://reactjs.org/)
-[![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badgehttps://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/https://redux.js.org/)
-[![HTML](https://shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=fffhttps://shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=fff)](https://html5book.ru/html-html5/https://html5book.ru/html-html5/)
-[![CSS](https://shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=fffhttps://shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=fff)](https://html5book.ru/osnovy-css/https://html5book.ru/osnovy-css/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-f9fbfa?logo=bootstrap&style=for-the-badgehttps://img.shields.io/badge/-Bootstrap-f9fbfa?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/https://getbootstrap.com/)
-[![Material-UI](https://img.shields.io/badge/-materialui-1572B6?logo=Material-UI&style=for-the-badgehttps://img.shields.io/badge/-materialui-1572B6?logo=Material-UI&style=for-the-badge)](https://material-ui.com/ru/https://material-ui.com/ru/)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 Back-end:
-[![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badgehttps://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/https://nodejs.org/en/)
-[![ExpressJS](https://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badgehttps://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badge)](https://expressjs.com/ru/https://expressjs.com/ru/)
-[![PassportJS](https://img.shields.io/badge/-Passport.js-000000?logo=passportjs&style=for-the-badgehttps://img.shields.io/badge/-Passport.js-000000?logo=passportjs&style=for-the-badge)](http://www.passportjs.org/http://www.passportjs.org/)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 [![WebSocket](https://img.shields.io/badge/-WebSocket-f9fbfa?logo=socketdotio&style=for-the-badgehttps://img.shields.io/badge/-WebSocket-f9fbfa?logo=socketdotio&style=for-the-badge)](https://developer.mozilla.org/ru/docs/Web/API/WebSockethttps://developer.mozilla.org/ru/docs/Web/API/WebSocket)
-      
-DB:
-[![Sequalize](https://shields.io/badge/-Sequelize-f9fbfa?logo=sequelize&style=for-the-badgehttps://shields.io/badge/-Sequelize-f9fbfa?logo=sequelize&style=for-the-badge)](https://sequelize.org/https://sequelize.org/)
-[![Postgres](https://shields.io/badge/-Postgres-f9fbfa?logo=postgresql&style=for-the-badgehttps://shields.io/badge/-Postgres-f9fbfa?logo=postgresql&style=for-the-badge)](https://www.postgresql.org/https://www.postgresql.org/)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)  
+
+DB,ORM:
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)    
 
 Other:
-[![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badgehttps://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/https://git-scm.com/)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
