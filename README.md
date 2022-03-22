@@ -38,5 +38,4 @@ Other:
 ### Contacts:
 
    - mail: sokolov.mikhail.job@gmail.com
-   -telegram: https://t.me/krsantan
-
+   - telegram: https://t.me/krsantan
