@@ -43,3 +43,7 @@ Other:
 
    - mail: sokolov.mikhail.job@gmail.com
    - telegram: https://t.me/krsantan
+
+### Stats
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikhailSokol)](https://github.com/anuraghazra/github-readme-stats)
