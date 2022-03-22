@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ### My name is Mike and i am frontend-developer! 
+    
      - interested in front-end development
      - like to play computer games and reading historical articles
       
