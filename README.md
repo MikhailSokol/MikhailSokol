@@ -22,7 +22,7 @@ Back-end:
 [![WebSocket](https://img.shields.io/badge/-WebSocket-f9fbfa?logo=socketdotio&style=for-the-badgehttps://img.shields.io/badge/-WebSocket-f9fbfa?logo=socketdotio&style=for-the-badge)](https://developer.mozilla.org/ru/docs/Web/API/WebSockethttps://developer.mozilla.org/ru/docs/Web/API/WebSocket)
 
 
-DB,ORM:
+###DB,ORM:
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)    
@@ -35,9 +35,8 @@ Other:
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Contacts
+### Contacts:
 
-   mail: sokolov.mikhail.job@gmail.com
-   
-   telegram: https://t.me/krsantan
+   - mail: sokolov.mikhail.job@gmail.com
+   -telegram: https://t.me/krsantan
 
