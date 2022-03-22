@@ -16,13 +16,13 @@ Front- end :
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-Back-end: 
+Back-end : 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 [![WebSocket](https://img.shields.io/badge/-WebSocket-f9fbfa?logo=socketdotio&style=for-the-badgehttps://img.shields.io/badge/-WebSocket-f9fbfa?logo=socketdotio&style=for-the-badge)](https://developer.mozilla.org/ru/docs/Web/API/WebSockethttps://developer.mozilla.org/ru/docs/Web/API/WebSocket)
 
 
-###DB,ORM: 
+DB,ORM : 
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)    
