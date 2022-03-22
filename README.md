@@ -29,6 +29,6 @@ DB:
 
 Other:
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badgehttps://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/https://git-scm.com/)
-[![Heroku](https://img.shields.io/badge/-Heroku-431490?logo=heroku&style=for-the-badgehttps://img.shields.io/badge/-Heroku-431490?logo=heroku&style=for-the-badge)]
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
