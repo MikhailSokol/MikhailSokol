@@ -2,7 +2,7 @@
 
 ### My name is Mike and i am frontend-developer! 
     
- - interested in front-end development
+ - interested in frontend development
  - like to play computer games and reading historical articles
  - how to contact : sokolov.mikhail.job@gmail.com
       
