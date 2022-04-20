@@ -44,8 +44,6 @@ Other:
    [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krsantan)
    [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/89807150096)
 
-### Stats
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikhailSokol&show_icons=true&theme=radical)
  
 
